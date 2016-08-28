@@ -1,4 +1,6 @@
 [
+  "hubot-tell",
+  "hubot-business-cat",
   "hubot-devops-reactions",
   "hubot-diagnostics",
   "hubot-help",
